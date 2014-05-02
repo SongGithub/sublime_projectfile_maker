@@ -9,6 +9,15 @@ The module makes lives easier for whom use Sublime-text and Virtualenv. It creat
 ==============
 The module modifies the postmkproject file and create a template named sublime.template, inside your virtualenv home folder
 
+3.INSTALL GUIDE
+===============
+* replace the postmkproject file with the one in the package to your VirtualEnv home directory
+* add sublime.template to your VirtualEnv home directory
+
+4.CURRENT ISSUE
+===============
+It does need to be installed by pip install or other easier way of deployment.
+
 COPYRIGHTS
 ==========
 It subjects to GNU licence.
