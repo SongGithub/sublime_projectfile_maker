@@ -9,13 +9,8 @@ The module makes lives easier for whom use Sublime-text and Virtualenv. It creat
 ==============
 The module modifies the postmkproject file and create a template named sublime.template, inside your virtualenv home folder
 
-3.AUTO INSTALL GUIDE
-====================
-* make sure you are in the directory of this module with both sublime.template and postmkproject existing
-* run 'bash setup'
-
-3.1MANUAL INSTALL GUIDE
------------------------
+3.INSTALL GUIDE
+===============
 * replace the postmkproject file with the one in the package to your VirtualEnv home directory
 * add sublime.template to your VirtualEnv home directory
 
