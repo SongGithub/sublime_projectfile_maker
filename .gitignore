@@ -1,5 +1,6 @@
 #half-product
 *.md~
+*.pyc
 
 #sublime-project-file
 *.sublime-project
