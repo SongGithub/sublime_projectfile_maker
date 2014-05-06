@@ -1,3 +1,0 @@
-[virtualenvwrapper.project.post_mkproject]
-user_scripts = virtualenvwrapper.sublime:post_mkproject
-

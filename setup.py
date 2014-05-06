@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 PROJECT = 'virtualenvwrapper-sublime'
-VERSION = '0.0.3'
+VERSION = '0.0.5'
 
 # Bootstrap installation of Distribute
 import distribute_setup

@@ -13,13 +13,10 @@ The module modifies the postmkproject file and create a template named sublime.t
 ====================
 run 'pip install virtualenvwrapper-sublime'
 
-4.CURRENT ISSUE
-===============
-It does need to be installed by pip install or other easier way of deployment.
 
 COPYRIGHTS
 ==========
-It subjects to GNU licence.
-It doesn't come with warranty of any sort.
+* It subjects to GNU licence.
+* It doesn't come with warranty of any sort.
 
 
