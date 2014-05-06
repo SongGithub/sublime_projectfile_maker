@@ -1,2 +1,0 @@
-cp -rf postmkproject $WORKON_HOME
-cp -rf sublime.template $WORKON_HOME

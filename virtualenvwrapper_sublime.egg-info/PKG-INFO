@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: virtualenvwrapper-sublime
+Version: 0.0.3
+Summary: It create sublime project file as creating new virtualenv using mkproject
+Home-page: UNKNOWN
+Author: Song Jin
+Author-email: songjin@hotmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: Any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Requires: virtualenv
+Requires: virtualenvwrapper (>=2.0)
+Provides: virtualenvwrapper.sublime

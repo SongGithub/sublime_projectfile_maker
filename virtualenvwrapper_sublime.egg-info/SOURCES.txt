@@ -1,0 +1,12 @@
+MANIFEST.in
+README
+distribute_setup.py
+setup.py
+virtualenvwrapper/__init__.py
+virtualenvwrapper/sublime.py
+virtualenvwrapper_sublime.egg-info/PKG-INFO
+virtualenvwrapper_sublime.egg-info/SOURCES.txt
+virtualenvwrapper_sublime.egg-info/dependency_links.txt
+virtualenvwrapper_sublime.egg-info/entry_points.txt
+virtualenvwrapper_sublime.egg-info/namespace_packages.txt
+virtualenvwrapper_sublime.egg-info/top_level.txt
