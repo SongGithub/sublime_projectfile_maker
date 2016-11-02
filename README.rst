@@ -19,4 +19,5 @@ COPYRIGHTS
 * It subjects to GNU licence.
 * It doesn't come with warranty of any sort.
 
-
+Feature requests:
+- For any feature request, please just raise it as an issue here at Github
