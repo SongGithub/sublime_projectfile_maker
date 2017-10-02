@@ -23,3 +23,6 @@ COPYRIGHTS
 Feature requests
 -------
 - For any feature request, please just raise it as an issue here at Github
+
+## TODO: 
+ADD travis pipeline to publish code to pypi
